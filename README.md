@@ -90,4 +90,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For questions or issues, please contact (mailto:rohithmahi7.com).
+For questions or issues, please contact rohithmahi7@gmail.com
